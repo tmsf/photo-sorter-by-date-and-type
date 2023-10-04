@@ -1,0 +1,17 @@
+{
+  "name": "photo-sorter-by-date-and-type",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "exif-reader": "^1.2.0",
+    "exiftool-vendored": "^21.5.1",
+    "fast-exif": "^2.0.1"
+  }
+}
